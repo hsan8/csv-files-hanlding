@@ -1,6 +1,6 @@
 # Exercise 2: Problem solving case
-1. colne project
-2. install dependencies
+1. Colne project
+2. Install dependencies
 ```sh
 npm install
 ```
@@ -8,9 +8,9 @@ npm install
 ```sh
 node app.js
 ```
-4. A message will display in console `please enter your name file`Please enter your file name:` in my case i already push an example csv file to test the code with it `order_log00.csv` and press `enter`
+4. A message will display in console `please enter your name file`Please enter your file name:` in my case i already push an example csv file to test the code with it `order_log00.csv` and press enter
 
-`Note: the csv file should be in the same folder`
+    `Note: the csv file should be in the same folder`
 
 5. A success message will display 
 
